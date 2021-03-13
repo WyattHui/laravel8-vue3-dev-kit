@@ -6,6 +6,9 @@
     "eslint:recommended"
   ],
   "globals": {
+    "require": true,
+    "Vue": true,
+    "window": true
   },
   "parserOptions": {
     "ecmaVersion": 8,
